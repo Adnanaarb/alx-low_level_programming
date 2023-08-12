@@ -12,7 +12,7 @@ int main(void){
         	for (L='A';L<='Z';L++){
         	putchar(L);
         	}
-    
+    	putchar('\n');
 
     return 0;
 }
